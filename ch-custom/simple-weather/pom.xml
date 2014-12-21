@@ -12,7 +12,7 @@
 	<artifactId>simple-weather</artifactId>
 	<packaging>jar</packaging>
 
-	<name>Customizing Chapter Simple Weather Project</name>
+	<name>Simple Weather Project</name>
 	<url>http://sonatype.com/book</url>
 
 	<licenses>

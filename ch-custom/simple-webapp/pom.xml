@@ -11,7 +11,7 @@
 
 	<artifactId>simple-webapp</artifactId>
 	<packaging>war</packaging>
-	<name>Multi Chapter Simple Web Application Project</name>
+	<name>Simple Web Application Project</name>
 	
 	<dependencies>
 		<dependency>
