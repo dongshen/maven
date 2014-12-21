@@ -1,4 +1,4 @@
-package org.sonatype.mavenbook.weather;
+package com.sdong.maven.weather;
 
 import java.io.InputStream;
 import java.util.HashMap;

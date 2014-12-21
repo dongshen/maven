@@ -1,10 +1,13 @@
-package org.sonatype.mavenbook.weather;
+package com.sdong.maven.weather;
 
 import static org.junit.Assert.assertEquals;
 
 import java.io.InputStream;
 
 import org.junit.Test;
+
+import com.sdong.maven.weather.Weather;
+import com.sdong.maven.weather.YahooParser;
 
 public class YahooParserTest {
 	

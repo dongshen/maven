@@ -1,4 +1,4 @@
-package org.sonatype.mavenbook.weather;
+package com.sdong.maven.weather;
 
 
 public class Weather {
